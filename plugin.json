@@ -2,7 +2,7 @@
   "name": "siyuan-ziyunote",
   "author": "zhuangziyu",
   "url": "https://github.com/zhuangziyu/siyuan-ziyunote",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "minAppVersion": "2.9.0",
   "backends": [
     "windows",
